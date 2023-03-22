@@ -7,6 +7,8 @@ Submitted by: Noah Sacco
 Time spent: 7 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/difficult-equable-balloon
+*must be signed in for page to work
+** working on exporting this to my website
 
 ## User Stories
 
